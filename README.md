@@ -1,4 +1,6 @@
-# About Me
+# Portfolio
+
+## About Me
 Hello, welcome! My name is Jake Smith, I am an aspiring data engineer. A little bit about me is that...
 
 LinkedIn: https://www.linkedin.com/in/jake-smith-2a9405117/
